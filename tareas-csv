@@ -241,3 +241,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 05/05;Inst. de UHF;74;0
 05/05;Reclamos de UHF;24;38
 05/05;Retiros de UHF;49;0
+06/05;Inst. Cable Módem;9;4
+06/05;Reclamos de CM;14;0
+06/05;Inst. de ONT;220;10
+06/05;Reclamos de ONT;40;25
+06/05;Mantenimientos de ONT;8;0
+06/05;Inst. de Cable;14;0
+06/05;Reclamos de Cable;41;1
+06/05;Mantenimientos de RED;239;4
+06/05;Inst. de UHF;64;11
+06/05;Reclamos de UHF;24;3
+06/05;Retiros de UHF;49;0
