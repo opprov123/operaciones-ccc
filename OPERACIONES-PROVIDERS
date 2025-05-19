@@ -1,61 +1,62 @@
 FECHA;TAREAS;PENDIENTES;REALIZADAS;UNIDAD
-02-abr;Conexiones;3;0;SMT
-02-abr;Verificacion Modem;1;0;SMT
-02-abr;Baja señal;0;0;SMT
-02-abr;Modificar cableado;0;0;SMT
-02-abr;Verificacion DECO;0;0;SMT
-02-abr;Sin señal;19;10;SMT
-02-abr;Sin señal FTTH;30;6;SMT
-02-abr;Verificación Técnica;0;10;SMT
-02-abr;Verificación Técnica FTTH;0;6;SMT
-02-abr;Zona sin señal;0;10;SMT
-02-abr;Instalación boca adicional;1;0;SMT
-02-abr;Conexiones;7;5;TAL
-02-abr;Verificacion Modem;0;0;TAL
-02-abr;Baja señal;0;0;TAL
-02-abr;Modificar cableado;0;0;TAL
-02-abr;Verificacion DECO;1;2;TAL
-02-abr;Sin señal;9;21;TAL
-02-abr;Sin señal DOCSIS;3;7;TAL
-02-abr;Sin señal FTTH;10;8;TAL
-02-abr;Verificación Técnica;22;12;TAL
-02-abr;Verificación Técnica FTTH;7;32;TAL
-02-abr;Verificación Técnica DOCSIS;1;0;TAL
-02-abr;Zona sin señal;0;0;TAL
-02-abr;Instalación boca adicional;0;1;TAL
-02-abr;Conexiones;12;1;TCC
-02-abr;Verificacion Modem;0;0;TCC
-02-abr;Baja señal;0;0;TCC
-02-abr;Modificar cableado;0;0;TCC
-02-abr;Verificacion DECO;0;0;TCC
-02-abr;Sin señal;58;8;TCC
-02-abr;Sin señal DOCSIS;1;0;TCC
-02-abr;Sin señal FTTH;15;0;TCC
-02-abr;Verificación Técnica;40;3;TCC
-02-abr;Verificación Técnica FTTH;0;0;TCC
-02-abr;Verificación Técnica DOCSIS;0;0;TCC
-02-abr;Zona sin señal;0;42;TCC
-02-abr;Instalación boca adicional;7;1;TCC
-02-abr;Conexiones;23;0;AGUI
-02-abr;Verificacion Modem;0;0;AGUI
-02-abr;Baja señal;0;0;AGUI
-02-abr;Modificar cableado;0;0;AGUI
-02-abr;Verificacion DECO;0;0;AGUI
-02-abr;Sin señal;0;0;AGUI
-02-abr;Sin señal FTTH;14;21;AGUI
-02-abr;Verificación Técnica;4;1;AGUI
-02-abr;Verificación Técnica FTTH;0;0;AGUI
-02-abr;Zona sin señal;0;3;AGUI
-02-abr;Instalación boca adicional;4;0;AGUI
-02-abr;Conexiones;7;0;TDV
-02-abr;Verificacion Modem;0;0;TDV
-02-abr;Baja señal;0;0;TDV
-02-abr;Modificar cableado;0;0;TDV
-02-abr;Verificacion DECO;0;0;TDV
-02-abr;Sin señal;3;1;TDV
-02-abr;Sin señal FTTH;2;0;TDV
-02-abr;Verificación Técnica;2;1;TDV
-02-abr;Verificación Técnica FTTH;1;4;TDV
-02-abr;Zona sin señal;0;0;TDV
-02-abr;Instalación boca adicional;0;1;TDV
-02-abr;CATV con lluvia;0;0;TDV
+FECHA;TAREAS;PENDIENTES;REALIZADAS;UNIDAD
+02/04;Conexiones;3;0;SMT
+02/04;Verificacion Modem;1;0;SMT
+02/04;Baja señal;0;0;SMT
+02/04;Modificar cableado;0;0;SMT
+02/04;Verificacion DECO;0;0;SMT
+02/04;Sin señal;19;10;SMT
+02/04;Sin señal FTTH;30;6;SMT
+02/04;Verificación Técnica;0;10;SMT
+02/04;Verificación Técnica FTTH;0;6;SMT
+02/04;Zona sin señal;0;10;SMT
+02/04;Instalación boca adicional;1;0;SMT
+02/04;Conexiones;7;5;TAL
+02/04;Verificacion Modem;0;0;TAL
+02/04;Baja señal;0;0;TAL
+02/04;Modificar cableado;0;0;TAL
+02/04;Verificacion DECO;1;2;TAL
+02/04;Sin señal;9;21;TAL
+02/04;Sin señal DOCSIS;3;7;TAL
+02/04;Sin señal FTTH;10;8;TAL
+02/04;Verificación Técnica;22;12;TAL
+02/04;Verificación Técnica FTTH;7;32;TAL
+02/04;Verificación Técnica DOCSIS;1;0;TAL
+02/04;Zona sin señal;0;0;TAL
+02/04;Instalación boca adicional;0;1;TAL
+02/04;Conexiones;12;1;TCC
+02/04;Verificacion Modem;0;0;TCC
+02/04;Baja señal;0;0;TCC
+02/04;Modificar cableado;0;0;TCC
+02/04;Verificacion DECO;0;0;TCC
+02/04;Sin señal;58;8;TCC
+02/04;Sin señal DOCSIS;1;0;TCC
+02/04;Sin señal FTTH;15;0;TCC
+02/04;Verificación Técnica;40;3;TCC
+02/04;Verificación Técnica FTTH;0;0;TCC
+02/04;Verificación Técnica DOCSIS;0;0;TCC
+02/04;Zona sin señal;0;42;TCC
+02/04;Instalación boca adicional;7;1;TCC
+02/04;Conexiones;23;0;AGUI
+02/04;Verificacion Modem;0;0;AGUI
+02/04;Baja señal;0;0;AGUI
+02/04;Modificar cableado;0;0;AGUI
+02/04;Verificacion DECO;0;0;AGUI
+02/04;Sin señal;0;0;AGUI
+02/04;Sin señal FTTH;14;21;AGUI
+02/04;Verificación Técnica;4;1;AGUI
+02/04;Verificación Técnica FTTH;0;0;AGUI
+02/04;Zona sin señal;0;3;AGUI
+02/04;Instalación boca adicional;4;0;AGUI
+02/04;Conexiones;7;0;TDV
+02/04;Verificacion Modem;0;0;TDV
+02/04;Baja señal;0;0;TDV
+02/04;Modificar cableado;0;0;TDV
+02/04;Verificacion DECO;0;0;TDV
+02/04;Sin señal;3;1;TDV
+02/04;Sin señal FTTH;2;0;TDV
+02/04;Verificación Técnica;2;1;TDV
+02/04;Verificación Técnica FTTH;1;4;TDV
+02/04;Zona sin señal;0;0;TDV
+02/04;Instalación boca adicional;0;1;TDV
+02/04;CATV con lluvia;0;0;TDV
