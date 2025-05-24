@@ -1,4 +1,64 @@
 FECHA;TAREAS;PENDIENTES;REALIZADAS;UNIDAD
+26/03;Conexiones;3;1;SMT
+26/03;Verificacion Modem;1;0;SMT
+26/03;Baja señal;0;0;SMT
+26/03;Modificar cableado;0;0;SMT
+26/03;Verificacion DECO;0;0;SMT
+26/03;Sin señal;23;15;SMT
+26/03;Sin señal FTTH;16;10;SMT
+26/03;Verificación Técnica;15;8;SMT
+26/03;Verificación Técnica FTTH;21;7;SMT
+26/03;Zona sin señal;0;1;SMT
+26/03;Instalación boca adicional;0;0;SMT
+26/03;Conexiones;8;3;TAL
+26/03;Verificacion Modem;0;0;TAL
+26/03;Baja señal;0;0;TAL
+26/03;Modificar cableado;0;0;TAL
+26/03;Verificacion DECO;3;0;TAL
+26/03;Sin señal;10;6;TAL
+26/03;Sin señal DOCSIS;9;22;TAL
+26/03;Sin señal FTTH;18;10;TAL
+26/03;Verificación Técnica;8;11;TAL
+26/03;Verificación Técnica FTTH;5;3;TAL
+26/03;Verificación Técnica DOCSIS;1;0;TAL
+26/03;Zona sin señal;0;51;TAL
+26/03;Instalación boca adicional;0;0;TAL
+26/03;Conexiones;11;0;TCC
+26/03;Verificacion Modem;0;0;TCC
+26/03;Baja señal;3;0;TCC
+26/03;Modificar cableado;0;0;TCC
+26/03;Verificacion DECO;0;0;TCC
+26/03;Sin señal;49;18;TCC
+26/03;Sin señal DOCSIS;1;3;TCC
+26/03;Sin señal FTTH;15;10;TCC
+26/03;Verificación Técnica;36;8;TCC
+26/03;Verificación Técnica FTTH;0;0;TCC
+26/03;Verificación Técnica DOCSIS;0;0;TCC
+26/03;Zona sin señal;0;23;TCC
+26/03;Instalación boca adicional;8;0;TCC
+26/03;Conexiones;17;1;AGUI
+26/03;Verificacion Modem;0;0;AGUI
+26/03;Baja señal;0;0;AGUI
+26/03;Modificar cableado;0;0;AGUI
+26/03;Verificacion DECO;0;0;AGUI
+26/03;Sin señal;1;1;AGUI
+26/03;Sin señal FTTH;7;9;AGUI
+26/03;Verificación Técnica;10;0;AGUI
+26/03;Verificación Técnica FTTH;0;0;AGUI
+26/03;Zona sin señal;0;24;AGUI
+26/03;Instalación boca adicional;6;2;AGUI
+26/03;Conexiones;6;0;TDV
+26/03;Verificacion Modem;0;0;TDV
+26/03;Baja señal;0;0;TDV
+26/03;Modificar cableado;0;0;TDV
+26/03;Verificacion DECO;0;0;TDV
+26/03;Sin señal;3;0;TDV
+26/03;Sin señal FTTH;2;0;TDV
+26/03;Verificación Técnica;2;0;TDV
+26/03;Verificación Técnica FTTH;1;1;TDV
+26/03;Zona sin señal;0;0;TDV
+26/03;Instalación boca adicional;0;0;TDV
+26/03;CATV con lluvia;0;0;TDV
 23/03;Conexiones;4;1;SMT
 23/03;Verificacion Modem;1;0;SMT
 23/03;Baja señal;0;0;SMT
