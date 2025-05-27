@@ -59,6 +59,66 @@ FECHA;TAREAS;PENDIENTES;REALIZADAS;UNIDAD
 19/03;Zona sin señal;0;0;TDV
 19/03;Instalación boca adicional;0;0;TDV
 19/03;CATV con lluvia;0;0;TDV
+22/03;Conexiones;3;2;SMT
+22/03;Verificacion Modem;1;0;SMT
+22/03;Baja señal;0;0;SMT
+22/03;Modificar cableado;1;0;SMT
+22/03;Verificacion DECO;0;0;SMT
+22/03;Sin señal;22;8;SMT
+22/03;Sin señal FTTH;14;6;SMT
+22/03;Verificación Técnica;13;3;SMT
+22/03;Verificación Técnica FTTH;18;3;SMT
+22/03;Zona sin señal;0;0;SMT
+22/03;Instalación boca adicional;0;0;SMT
+22/03;Conexiones;6;5;TAL
+22/03;Verificacion Modem;0;0;TAL
+22/03;Baja señal;0;0;TAL
+22/03;Modificar cableado;0;0;TAL
+22/03;Verificacion DECO;3;0;TAL
+22/03;Sin señal;6;7;TAL
+22/03;Sin señal DOCSIS;5;1;TAL
+22/03;Sin señal FTTH;5;4;TAL
+22/03;Verificación Técnica;11;10;TAL
+22/03;Verificación Técnica FTTH;10;5;TAL
+22/03;Verificación Técnica DOCSIS;1;0;TAL
+22/03;Zona sin señal;0;0;TAL
+22/03;Instalación boca adicional;1;0;TAL
+22/03;Conexiones;10;1;TCC
+22/03;Verificacion Modem;0;0;TCC
+22/03;Baja señal;3;0;TCC
+22/03;Modificar cableado;0;0;TCC
+22/03;Verificacion DECO;0;0;TCC
+22/03;Sin señal;42;13;TCC
+22/03;Sin señal DOCSIS;3;1;TCC
+22/03;Sin señal FTTH;10;3;TCC
+22/03;Verificación Técnica;34;7;TCC
+22/03;Verificación Técnica FTTH;0;0;TCC
+22/03;Verificación Técnica DOCSIS;0;0;TCC
+22/03;Zona sin señal;0;0;TCC
+22/03;Instalación boca adicional;7;3;TCC
+22/03;Conexiones;7;8;AGUI
+22/03;Verificacion Modem;0;0;AGUI
+22/03;Baja señal;0;0;AGUI
+22/03;Modificar cableado;0;0;AGUI
+22/03;Verificacion DECO;0;0;AGUI
+22/03;Sin señal;0;1;AGUI
+22/03;Sin señal FTTH;0;6;AGUI
+22/03;Verificación Técnica;4;3;AGUI
+22/03;Verificación Técnica FTTH;0;2;AGUI
+22/03;Zona sin señal;0;0;AGUI
+22/03;Instalación boca adicional;0;2;AGUI
+22/03;Conexiones;7;4;TDV
+22/03;Verificacion Modem;0;1;TDV
+22/03;Baja señal;0;0;TDV
+22/03;Modificar cableado;0;0;TDV
+22/03;Verificacion DECO;0;0;TDV
+22/03;Sin señal;3;0;TDV
+22/03;Sin señal FTTH;2;1;TDV
+22/03;Verificación Técnica;2;4;TDV
+22/03;Verificación Técnica FTTH;2;2;TDV
+22/03;Zona sin señal;0;0;TDV
+22/03;Instalación boca adicional;0;0;TDV
+22/03;CATV con lluvia;0;0;TDV
 26/03;Conexiones;3;1;SMT
 26/03;Verificacion Modem;1;0;SMT
 26/03;Baja señal;0;0;SMT
