@@ -659,3 +659,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 21/06;Inst. de UHF;39;11
 21/06;Reclamos de UHF;5;3
 21/06;Retiros de UHF;192;0
+23/06;Inst. Cable Módem;10;0
+23/06;Reclamos de CM;8;7
+23/06;Inst. de ONT;111;12
+23/06;Reclamos de ONT;61;24
+23/06;Mantenimientos de ONT;7;0
+23/06;Inst. de Cable;7;4
+23/06;Reclamos de Cable;36;13
+23/06;Mantenimientos de RED;231;0
+23/06;Inst. de UHF;33;4
+23/06;Reclamos de UHF;6;2
+23/06;Retiros de UHF;192;0
