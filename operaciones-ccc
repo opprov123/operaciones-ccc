@@ -780,3 +780,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 04/07;Inst. de UHF;49;9
 04/07;Reclamos de UHF;24;1
 04/07;Retiros de UHF;176;0
+05/07;Inst. Cable Módem;9;0
+05/07;Reclamos de CM;5;3
+05/07;Inst. de ONT;101;26
+05/07;Reclamos de ONT;85;22
+05/07;Mantenimientos de ONT;7;0
+05/07;Inst. de Cable;5;1
+05/07;Reclamos de Cable;24;14
+05/07;Mantenimientos de RED;231;0
+05/07;Inst. de UHF;51;0
+05/07;Reclamos de UHF;26;0
+05/07;Retiros de UHF;176;0
