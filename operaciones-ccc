@@ -813,3 +813,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 08/07;Inst. de UHF;41;0
 08/07;Reclamos de UHF;34;0
 08/07;Retiros de UHF;176;0
+10/07;Inst. Cable Módem;6;5
+10/07;Reclamos de CM;2;5
+10/07;Inst. de ONT;120;21
+10/07;Reclamos de ONT;87;22
+10/07;Mantenimientos de ONT;7;0
+10/07;Inst. de Cable;5;1
+10/07;Reclamos de Cable;23;25
+10/07;Mantenimientos de RED;230;0
+10/07;Inst. de UHF;34;14
+10/07;Reclamos de UHF;28;12
+10/07;Retiros de UHF;176;0
