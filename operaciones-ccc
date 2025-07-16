@@ -868,3 +868,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 15/07;Inst. de UHF;36;6
 15/07;Reclamos de UHF;16;4
 15/07;Retiros de UHF;176;0
+16/07;Inst. Cable Módem;4;0
+16/07;Reclamos de CM;14;1
+16/07;Inst. de ONT;128;32
+16/07;Reclamos de ONT;131;24
+16/07;Mantenimientos de ONT;7;0
+16/07;Inst. de Cable;3;0
+16/07;Reclamos de Cable;38;16
+16/07;Mantenimientos de RED;230;0
+16/07;Inst. de UHF;38;5
+16/07;Reclamos de UHF;12;9
+16/07;Retiros de UHF;157;19
