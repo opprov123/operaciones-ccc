@@ -879,7 +879,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 16/07;Inst. de UHF;38;5
 16/07;Reclamos de UHF;12;9
 16/07;Retiros de UHF;157;19
-17/07;Inst. Cable M¾dem;6;0
+17/07;Inst. Cable Módem;6;0
 17/07;Reclamos de CM;8;8
 17/07;Inst. de ONT;132;13
 17/07;Reclamos de ONT;143;21
@@ -890,7 +890,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 17/07;Inst. de UHF;26;8
 17/07;Reclamos de UHF;11;3
 17/07;Retiros de UHF;156;1
-18/07;Inst. Cable M¾dem;7;0
+18/07;Inst. Cable Módem;7;0
 18/07;Reclamos de CM;15;2
 18/07;Inst. de ONT;129;26
 18/07;Reclamos de ONT;149;13
@@ -901,7 +901,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 18/07;Inst. de UHF;48;4
 18/07;Reclamos de UHF;8;6
 18/07;Retiros de UHF;144;12
-19/07;Inst. Cable M¾dem;9;0
+19/07;Inst. Cable Módem;9;0
 19/07;Reclamos de CM;17;4
 19/07;Inst. de ONT;133;14
 19/07;Reclamos de ONT;128;48
@@ -912,7 +912,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 19/07;Inst. de UHF;48;6
 19/07;Reclamos de UHF;3;7
 19/07;Retiros de UHF;144;0
-21/07;Inst. Cable M¾dem;10;0
+21/07;Inst. Cable Módem;10;0
 21/07;Reclamos de CM;14;5
 21/07;Inst. de ONT;120;17
 21/07;Reclamos de ONT;110;31
@@ -923,7 +923,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 21/07;Inst. de UHF;43;5
 21/07;Reclamos de UHF;4;1
 21/07;Retiros de UHF;144;0
-22/07;Inst. Cable M¾dem;9;0
+22/07;Inst. Cable Módem;9;0
 22/07;Reclamos de CM;18;3
 22/07;Inst. de ONT;121;20
 22/07;Reclamos de ONT;141;13
@@ -934,7 +934,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 22/07;Inst. de UHF;38;1
 22/07;Reclamos de UHF;12;0
 22/07;Retiros de UHF;139;5
-23/07;Inst. Cable M¾dem;8;1
+23/07;Inst. Cable Módem;8;1
 23/07;Reclamos de CM;20;3
 23/07;Inst. de ONT;115;25
 23/07;Reclamos de ONT;141;24
@@ -945,7 +945,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 23/07;Inst. de UHF;36;4
 23/07;Reclamos de UHF;15;0
 23/07;Retiros de UHF;139;0
-24/07;Inst. Cable M¾dem;8;2
+24/07;Inst. Cable Módem;8;2
 24/07;Reclamos de CM;18;3
 24/07;Inst. de ONT;119;16
 24/07;Reclamos de ONT;134;29
@@ -956,7 +956,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 24/07;Inst. de UHF;40;3
 24/07;Reclamos de UHF;18;0
 24/07;Retiros de UHF;140;0
-25/07;Inst. Cable M¾dem;8;2
+25/07;Inst. Cable Módem;8;2
 25/07;Reclamos de CM;18;5
 25/07;Inst. de ONT;125;7
 25/07;Reclamos de ONT;142;31
@@ -967,7 +967,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 25/07;Inst. de UHF;51;0
 25/07;Reclamos de UHF;21;1
 25/07;Retiros de UHF;140;0
-26/07;Inst. Cable M¾dem;7;2
+26/07;Inst. Cable Módem;7;2
 26/07;Reclamos de CM;16;3
 26/07;Inst. de ONT;115;22
 26/07;Reclamos de ONT;147;28
@@ -978,7 +978,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 26/07;Inst. de UHF;47;7
 26/07;Reclamos de UHF;20;3
 26/07;Retiros de UHF;140;0
-28/07;Inst. Cable M¾dem;6;1
+28/07;Inst. Cable Módem;6;1
 28/07;Reclamos de CM;20;3
 28/07;Inst. de ONT;106;20
 28/07;Reclamos de ONT;130;44
@@ -989,7 +989,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 28/07;Inst. de UHF;42;7
 28/07;Reclamos de UHF;20;2
 28/07;Retiros de UHF;140;0
-29/07;Inst. Cable M¾dem;7;0
+29/07;Inst. Cable Módem;7;0
 29/07;Reclamos de CM;19;6
 29/07;Inst. de ONT;121;5
 29/07;Reclamos de ONT;138;14
@@ -1000,7 +1000,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 29/07;Inst. de UHF;37;9
 29/07;Reclamos de UHF;24;1
 29/07;Retiros de UHF;140;0
-30/07;Inst. Cable M¾dem;7;1
+30/07;Inst. Cable Módem;7;1
 30/07;Reclamos de CM;26;2
 30/07;Inst. de ONT;131;11
 30/07;Reclamos de ONT;140;27
@@ -1011,7 +1011,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 30/07;Inst. de UHF;43;0
 30/07;Reclamos de UHF;21;4
 30/07;Retiros de UHF;140;0
-31/07;Inst. Cable M¾dem;7;1
+31/07;Inst. Cable Módem;7;1
 31/07;Reclamos de CM;23;8
 31/07;Inst. de ONT;133;13
 31/07;Reclamos de ONT;130;37
@@ -1022,7 +1022,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 31/07;Inst. de UHF;41;5
 31/07;Reclamos de UHF;23;0
 31/07;Retiros de UHF;139;1
-01/08;Inst. Cable M¾dem;8;1
+01/08;Inst. Cable Módem;8;1
 01/08;Reclamos de CM;21;6
 01/08;Inst. de ONT;133;13
 01/08;Reclamos de ONT;122;43
@@ -1033,7 +1033,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 01/08;Inst. de UHF;39;3
 01/08;Reclamos de UHF;23;5
 01/08;Retiros de UHF;139;0
-02/08;Inst. Cable M¾dem;8;1
+02/08;Inst. Cable Módem;8;1
 02/08;Reclamos de CM;11;12
 02/08;Inst. de ONT;122;25
 02/08;Reclamos de ONT;120;31
