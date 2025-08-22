@@ -1209,3 +1209,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 21/08;Inst. de UHF;15;3
 21/08;Reclamos de UHF;22;4
 21/08;Retiros de UHF;91;0
+22/08;Inst. Cable Módem;4;4
+22/08;Reclamos de CM;6;5
+22/08;Inst. de ONT;140;50
+22/08;Reclamos de ONT;64;22
+22/08;Mantenimientos de ONT;7;0
+22/08;Inst. de Cable;4;2
+22/08;Reclamos de Cable;28;8
+22/08;Mantenimientos de RED;230;0
+22/08;Inst. de UHF;16;3
+22/08;Reclamos de UHF;20;3
+22/08;Retiros de UHF;91;0
