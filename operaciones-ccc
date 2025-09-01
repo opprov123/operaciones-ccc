@@ -1286,3 +1286,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 29/08;Inst. de UHF;18;1
 29/08;Reclamos de UHF;4;3
 29/08;Retiros de UHF;83;0
+30/08;Inst. Cable Módem;6;2
+30/08;Reclamos de CM;6;3
+30/08;Inst. de ONT;123;1
+30/08;Reclamos de ONT;56;26
+30/08;Mantenimientos de ONT;7;0
+30/08;Inst. de Cable;2;0
+30/08;Reclamos de Cable;13;12
+30/08;Mantenimientos de RED;230;0
+30/08;Inst. de UHF;18;2
+30/08;Reclamos de UHF;2;3
+30/08;Retiros de UHF;213;2
