@@ -1396,3 +1396,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 10/09;Inst. de UHF;17;3
 10/09;Reclamos de UHF;10;2
 10/09;Retiros de UHF;221;1
+11/09;Inst. Cable Módem;6;0
+11/09;Reclamos de CM;16;6
+11/09;Inst. de ONT;61;8
+11/09;Reclamos de ONT;46;36
+11/09;Mantenimientos de ONT;7;0
+11/09;Inst. de Cable;4;0
+11/09;Reclamos de Cable;22;11
+11/09;Mantenimientos de RED;230;0
+11/09;Inst. de UHF;18;5
+11/09;Reclamos de UHF;8;4
+11/09;Retiros de UHF;221;0
