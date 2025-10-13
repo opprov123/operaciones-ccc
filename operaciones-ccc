@@ -1671,3 +1671,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 09/10;Inst. de UHF;10;1
 09/10;Reclamos de UHF;18;4
 09/10;Retiros de UHF;368;0
+11/10;Inst. Cable Módem;7;0
+11/10;Reclamos de CM;11;4
+11/10;Inst. de ONT;116;16
+11/10;Reclamos de ONT;69;15
+11/10;Mantenimientos de ONT;7;0
+11/10;Inst. de Cable;2;2
+11/10;Reclamos de Cable;34;20
+11/10;Mantenimientos de RED;230;0
+11/10;Inst. de UHF;14;0
+11/10;Reclamos de UHF;18;8
+11/10;Retiros de UHF;368;0
