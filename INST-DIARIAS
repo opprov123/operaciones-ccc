@@ -395,7 +395,11 @@ FECHA;OPERACIONES;REALIZADAS
 08/10;Inst. de ONT;4
 08/10;Inst. de Cable;0
 08/10;Inst. de UHF;5
-08/10;Inst. Cable Módem;0
-08/10;Inst. de ONT;13
-08/10;Inst. de Cable;3
-08/10;Inst. de UHF;1
+09/10;Inst. Cable Módem;0
+09/10;Inst. de ONT;13
+09/10;Inst. de Cable;3
+09/10;Inst. de UHF;1
+11/10;Inst. Cable Módem;0
+11/10;Inst. de ONT;16
+11/10;Inst. de Cable;2
+11/10;Inst. de UHF;0
