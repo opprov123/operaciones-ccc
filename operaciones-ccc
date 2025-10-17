@@ -1726,3 +1726,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 16/10;Inst. de UHF;11;2
 16/10;Reclamos de UHF;14;3
 16/10;Retiros de UHF;368;0
+17/10;Inst. Cable Módem;3;2
+17/10;Reclamos de CM;9;2
+17/10;Inst. de ONT;133;28
+17/10;Reclamos de ONT;85;16
+17/10;Mantenimientos de ONT;7;0
+17/10;Inst. de Cable;3;0
+17/10;Reclamos de Cable;33;15
+17/10;Mantenimientos de RED;230;0
+17/10;Inst. de UHF;10;2
+17/10;Reclamos de UHF;14;3
+17/10;Retiros de UHF;368;0
