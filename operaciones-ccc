@@ -1759,3 +1759,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 20/10;Inst. de UHF;12;0
 20/10;Reclamos de UHF;17;7
 20/10;Retiros de UHF;368;0
+21/10;Inst. Cable Módem;4;1
+21/10;Reclamos de CM;8;4
+21/10;Inst. de ONT;100;16
+21/10;Reclamos de ONT;133;47
+21/10;Mantenimientos de ONT;7;0
+21/10;Inst. de Cable;2;0
+21/10;Reclamos de Cable;43;17
+21/10;Mantenimientos de RED;230;0
+21/10;Inst. de UHF;16;0
+21/10;Reclamos de UHF;16;5
+21/10;Retiros de UHF;368;0
