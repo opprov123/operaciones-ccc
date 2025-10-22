@@ -1770,3 +1770,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 21/10;Inst. de UHF;16;0
 21/10;Reclamos de UHF;16;5
 21/10;Retiros de UHF;368;0
+22/10;Inst. Cable Módem;4;0
+22/10;Reclamos de CM;9;3
+22/10;Inst. de ONT;116;10
+22/10;Reclamos de ONT;95;62
+22/10;Mantenimientos de ONT;7;0
+22/10;Inst. de Cable;2;0
+22/10;Reclamos de Cable;42;13
+22/10;Mantenimientos de RED;230;0
+22/10;Inst. de UHF;17;3
+22/10;Reclamos de UHF;17;2
+22/10;Retiros de UHF;368;0
