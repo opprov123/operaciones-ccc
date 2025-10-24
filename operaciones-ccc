@@ -1781,3 +1781,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 22/10;Inst. de UHF;17;3
 22/10;Reclamos de UHF;17;2
 22/10;Retiros de UHF;368;0
+23/10;Inst. Cable Módem;3;1
+23/10;Reclamos de CM;5;4
+23/10;Inst. de ONT;130;12
+23/10;Reclamos de ONT;78;37
+23/10;Mantenimientos de ONT;7;0
+23/10;Inst. de Cable;1;1
+23/10;Reclamos de Cable;27;24
+23/10;Mantenimientos de RED;230;0
+23/10;Inst. de UHF;13;1
+23/10;Reclamos de UHF;19;4
+23/10;Retiros de UHF;368;0
