@@ -1891,3 +1891,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 03/11;Inst. de UHF;26;3
 03/11;Reclamos de UHF;65;18
 03/11;Retiros de UHF;367;0
+04/11;Inst. Cable M¡dem;6;0
+04/11;Reclamos de CM;6;1
+04/11;Inst. de ONT;52;7
+04/11;Reclamos de ONT;74;36
+04/11;Mantenimientos de ONT;7;0
+04/11;Inst. de Cable;4;0
+04/11;Reclamos de Cable;42;20
+04/11;Mantenimientos de RED;230;0
+04/11;Inst. de UHF;26;3
+04/11;Reclamos de UHF;61;19
+04/11;Retiros de UHF;367;0
