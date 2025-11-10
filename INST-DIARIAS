@@ -495,7 +495,11 @@ FECHA;OPERACIONES;REALIZADAS
 07/11;Inst. de ONT;17
 07/11;Inst. de Cable;0
 07/11;Inst. de UHF;5
-07/11;Inst. Cable Módem;1
-07/11;Inst. de ONT;15
-07/11;Inst. de Cable;2
-07/11;Inst. de UHF;3
+08/11;Inst. Cable Módem;1
+08/11;Inst. de ONT;15
+08/11;Inst. de Cable;2
+08/11;Inst. de UHF;3
+10/11;Inst. Cable Módem;2
+10/11;Inst. de ONT;21
+10/11;Inst. de Cable;0
+10/11;Inst. de UHF;3
