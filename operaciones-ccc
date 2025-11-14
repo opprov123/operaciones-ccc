@@ -1979,7 +1979,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 12/11;Inst. de UHF;11;4
 12/11;Reclamos de UHF;45;10
 12/11;Retiros de UHF;366;0
-13/11;Inst. Cable MÐdem;4;2
+13/11;Inst. Cable Módem;4;2
 13/11;Reclamos de CM;19;4
 13/11;Inst. de ONT;58;13
 13/11;Reclamos de ONT;82;23
@@ -1990,3 +1990,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 13/11;Inst. de UHF;15;3
 13/11;Reclamos de UHF;35;17
 13/11;Retiros de UHF;366;0
+14/11;Inst. Cable Módem;6;0
+14/11;Reclamos de CM;12;8
+14/11;Inst. de ONT;67;2
+14/11;Reclamos de ONT;49;53
+14/11;Mantenimientos de ONT;7;0
+14/11;Inst. de Cable;10;0
+14/11;Reclamos de Cable;52;7
+14/11;Mantenimientos de RED;230;0
+14/11;Inst. de UHF;16;2
+14/11;Reclamos de UHF;31;9
+14/11;Retiros de UHF;366;0
