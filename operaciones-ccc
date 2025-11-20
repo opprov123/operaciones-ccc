@@ -2045,3 +2045,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 19/11;Inst. de UHF;15;3
 19/11;Reclamos de UHF;30;5
 19/11;Retiros de UHF;365;0
+20/11;Inst. Cable Módem;8;1
+20/11;Reclamos de CM;12;8
+20/11;Inst. de ONT;79;11
+20/11;Reclamos de ONT;45;22
+20/11;Mantenimientos de ONT;7;0
+20/11;Inst. de Cable;10;4
+20/11;Reclamos de Cable;41;20
+20/11;Mantenimientos de RED;230;0
+20/11;Inst. de UHF;14;3
+20/11;Reclamos de UHF;28;8
+20/11;Retiros de UHF;365;
