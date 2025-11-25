@@ -2078,3 +2078,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 22/11;Inst. de UHF;14;1
 22/11;Reclamos de UHF;29;3
 22/11;Retiros de UHF;357;0
+25/11;Inst. Cable Módem;8;0
+25/11;Reclamos de CM;7;3
+25/11;Inst. de ONT;78;15
+25/11;Reclamos de ONT;92;10
+25/11;Mantenimientos de ONT;7;0
+25/11;Inst. de Cable;2;0
+25/11;Reclamos de Cable;48;15
+25/11;Mantenimientos de RED;230;0
+25/11;Inst. de UHF;16;0
+25/11;Reclamos de UHF;30;13
+25/11;Retiros de UHF;357;0
