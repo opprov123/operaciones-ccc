@@ -1882,7 +1882,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 01/11;Retiros de UHF;367;0
 03/11;Inst. Cable Módem;5;1
 03/11;Reclamos de CM;6;6
-03/11;Inst. de ONT;42;13
+03/11;Inst. de ONT;42;7
 03/11;Reclamos de ONT;77;27
 03/11;Mantenimientos de ONT;7;0
 03/11;Inst. de Cable;4;3
@@ -1904,7 +1904,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 04/11;Retiros de UHF;367;0
 05/11;Inst. Cable Módem;6;1
 05/11;Reclamos de CM;5;2
-05/11;Inst. de ONT;67;7
+05/11;Inst. de ONT;67;10
 05/11;Reclamos de ONT;97;19
 05/11;Mantenimientos de ONT;7;0
 05/11;Inst. de Cable;3;2
@@ -1915,7 +1915,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 05/11;Retiros de UHF;367;0
 06/11;Inst. Cable Módem;5;2
 06/11;Reclamos de CM;5;3
-06/11;Inst. de ONT;68;14
+06/11;Inst. de ONT;68;11
 06/11;Reclamos de ONT;76;37
 06/11;Mantenimientos de ONT;7;0
 06/11;Inst. de Cable;2;1
@@ -1959,7 +1959,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 10/11;Retiros de UHF;367;0
 11/11;Inst. Cable Módem;8;1
 11/11;Reclamos de CM;12;3
-11/11;Inst. de ONT;66;25
+11/11;Inst. de ONT;66;28
 11/11;Reclamos de ONT;88;17
 11/11;Mantenimientos de ONT;7;0
 11/11;Inst. de Cable;2;0
@@ -1970,7 +1970,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 11/11;Retiros de UHF;367;0
 12/11;Inst. Cable Módem;6;2
 12/11;Reclamos de CM;15;4
-12/11;Inst. de ONT;60;15
+12/11;Inst. de ONT;60;16
 12/11;Reclamos de ONT;74;41
 12/11;Mantenimientos de ONT;7;0
 12/11;Inst. de Cable;5;0
@@ -1981,7 +1981,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 12/11;Retiros de UHF;366;0
 13/11;Inst. Cable Módem;4;2
 13/11;Reclamos de CM;19;4
-13/11;Inst. de ONT;58;13
+13/11;Inst. de ONT;58;17
 13/11;Reclamos de ONT;82;23
 13/11;Mantenimientos de ONT;7;0
 13/11;Inst. de Cable;10;0
@@ -2003,7 +2003,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 14/11;Retiros de UHF;366;0
 15/11;Inst. Cable Módem;5;1
 15/11;Reclamos de CM;15;3
-15/11;Inst. de ONT;59;13
+15/11;Inst. de ONT;59;22
 15/11;Reclamos de ONT;54;18
 15/11;Mantenimientos de ONT;7;0
 15/11;Inst. de Cable;10;1
@@ -2036,7 +2036,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 18/11;Retiros de UHF;365;0
 19/11;Inst. Cable Módem;8;0
 19/11;Reclamos de CM;14;1
-19/11;Inst. de ONT;65;15
+19/11;Inst. de ONT;65;7
 19/11;Reclamos de ONT;52;32
 19/11;Mantenimientos de ONT;7;0
 19/11;Inst. de Cable;9;0
@@ -2058,7 +2058,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 20/11;Retiros de UHF;365;
 21/11;Inst. Cable Módem;9;0
 21/11;Reclamos de CM;11;3
-21/11;Inst. de ONT;81;17
+21/11;Inst. de ONT;81;16
 21/11;Reclamos de ONT;53;14
 21/11;Mantenimientos de ONT;7;0
 21/11;Inst. de Cable;3;8
@@ -2080,7 +2080,7 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 22/11;Retiros de UHF;357;0
 25/11;Inst. Cable Módem;8;0
 25/11;Reclamos de CM;7;3
-25/11;Inst. de ONT;78;15
+25/11;Inst. de ONT;78;17
 25/11;Reclamos de ONT;92;10
 25/11;Mantenimientos de ONT;7;0
 25/11;Inst. de Cable;2;0
