@@ -476,7 +476,7 @@ FECHA;OPERACIONES;REALIZADAS
 01/11;Inst. de Cable;2
 01/11;Inst. de UHF;3
 03/11;Inst. Cable Módem;3
-03/11;Inst. de ONT;13
+03/11;Inst. de ONT;7
 03/11;Inst. de Cable;1
 03/11;Inst. de UHF;3
 04/11;Inst. Cable Módem;0
@@ -484,11 +484,11 @@ FECHA;OPERACIONES;REALIZADAS
 04/11;Inst. de Cable;0
 04/11;Inst. de UHF;3
 05/11;Inst. Cable Módem;1
-05/11;Inst. de ONT;7
+05/11;Inst. de ONT;10
 05/11;Inst. de Cable;2
 05/11;Inst. de UHF;6
 06/11;Inst. Cable Módem;2
-06/11;Inst. de ONT;14
+06/11;Inst. de ONT;11
 06/11;Inst. de Cable;1
 06/11;Inst. de UHF;5
 07/11;Inst. Cable Módem;0
@@ -504,15 +504,15 @@ FECHA;OPERACIONES;REALIZADAS
 10/11;Inst. de Cable;0
 10/11;Inst. de UHF;3
 11/11;Inst. Cable Módem;1
-11/11;Inst. de ONT;25
+11/11;Inst. de ONT;28
 11/11;Inst. de Cable;0
 11/11;Inst. de UHF;1
 12/11;Inst. Cable Módem;2
-12/11;Inst. de ONT;15
+12/11;Inst. de ONT;16
 12/11;Inst. de Cable;0
 12/11;Inst. de UHF;4
 13/11;Inst. Cable Módem;2
-13/11;Inst. de ONT;13
+13/11;Inst. de ONT;17
 13/11;Inst. de Cable;0
 13/11;Inst. de UHF;3
 14/11;Inst. Cable Módem;0
@@ -520,7 +520,7 @@ FECHA;OPERACIONES;REALIZADAS
 14/11;Inst. de Cable;0
 14/11;Inst. de UHF;2
 15/11;Inst. Cable Módem;1
-15/11;Inst. de ONT;13
+15/11;Inst. de ONT;22
 15/11;Inst. de Cable;1
 15/11;Inst. de UHF;1
 17/11;Inst. Cable Módem;0
@@ -532,7 +532,7 @@ FECHA;OPERACIONES;REALIZADAS
 18/11;Inst. de Cable;2
 18/11;Inst. de UHF;3
 19/11;Inst. Cable Módem;0
-19/11;Inst. de ONT;15
+19/11;Inst. de ONT;7
 19/11;Inst. de Cable;0
 19/11;Inst. de UHF;3
 20/11;Inst. Cable Módem;1
@@ -540,7 +540,7 @@ FECHA;OPERACIONES;REALIZADAS
 20/11;Inst. de Cable;4
 20/11;Inst. de UHF;3
 21/11;Inst. Cable Módem;0
-21/11;Inst. de ONT;17
+21/11;Inst. de ONT;16
 21/11;Inst. de Cable;8
 21/11;Inst. de UHF;5
 22/11;Inst. Cable Módem;0
@@ -548,7 +548,7 @@ FECHA;OPERACIONES;REALIZADAS
 22/11;Inst. de Cable;2
 22/11;Inst. de UHF;1
 25/11;Inst. Cable Módem;0
-25/11;Inst. de ONT;15
+25/11;Inst. de ONT;17
 25/11;Inst. de Cable;0
 25/11;Inst. de UHF;0
 26/11;Inst. Cable Módem;1
