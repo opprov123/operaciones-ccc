@@ -579,7 +579,11 @@ FECHA;OPERACIONES;REALIZADAS
 03/12;Inst. de ONT;3
 03/12;Inst. de Cable;0
 03/12;Inst. de UHF;0
-03/12;Inst. Cable Módem;0
-03/12;Inst. de ONT;8
-03/12;Inst. de Cable;0
-03/12;Inst. de UHF;0
+04/12;Inst. Cable Módem;0
+04/12;Inst. de ONT;8
+04/12;Inst. de Cable;0
+04/12;Inst. de UHF;0
+05/12;Inst. Cable Módem;2
+05/12;Inst. de ONT;28
+05/12;Inst. de Cable;0
+05/12;Inst. de UHF;1
