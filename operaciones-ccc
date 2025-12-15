@@ -2243,6 +2243,17 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 12/12;Inst. de UHF;22;0
 12/12;Reclamos de UHF;83;2
 12/12;Retiros de UHF;357;0
+13/12;Inst. Cable Módem;6;0
+13/12;Reclamos de CM;16;4
+13/12;Inst. de ONT;108;5
+13/12;Reclamos de ONT;225;47
+13/12;Mantenimientos de ONT;7;0
+13/12;Inst. de Cable;12;3
+13/12;Reclamos de Cable;85;20
+13/12;Mantenimientos de RED;230;0
+13/12;Inst. de UHF;23;0
+13/12;Reclamos de UHF;81;0
+13/12;Retiros de UHF;357;0
 15/12;Inst. Cable Módem;6;0
 15/12;Reclamos de CM;16;1
 15/12;Inst. de ONT;108;6
