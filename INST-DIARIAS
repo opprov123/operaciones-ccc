@@ -615,7 +615,11 @@ FECHA;OPERACIONES;REALIZADAS
 15/12;Inst. de ONT;6
 15/12;Inst. de Cable;4
 15/12;Inst. de UHF;0
-15/12;Inst. Cable Módem;1
-15/12;Inst. de ONT;2
-15/12;Inst. de Cable;2
-15/12;Inst. de UHF;4
+16/12;Inst. Cable Módem;1
+16/12;Inst. de ONT;2
+16/12;Inst. de Cable;2
+16/12;Inst. de UHF;4
+17/12;Inst. Cable Módem;0
+17/12;Inst. de ONT;19
+17/12;Inst. de Cable;0
+17/12;Inst. de UHF;1
