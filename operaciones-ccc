@@ -2276,3 +2276,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 16/12;Inst. de UHF;20;4
 16/12;Reclamos de UHF;86;17
 16/12;Retiros de UHF;357;0
+17/12;Inst. Cable Módem;8;0
+17/12;Reclamos de CM;23;3
+17/12;Inst. de ONT;112;19
+17/12;Reclamos de ONT;166;54
+17/12;Mantenimientos de ONT;7;0
+17/12;Inst. de Cable;8;1
+17/12;Reclamos de Cable;72;29
+17/12;Mantenimientos de RED;230;0
+17/12;Inst. de UHF;22;0
+17/12;Reclamos de UHF;79;16
+17/12;Retiros de UHF;357;0
