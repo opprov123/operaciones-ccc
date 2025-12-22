@@ -631,8 +631,11 @@ FECHA;OPERACIONES;REALIZADAS
 19/12;Inst. de ONT;23
 19/12;Inst. de Cable;1
 19/12;Inst. de UHF;4
-19/12;Inst. Cable Módem;0
-19/12;Inst. de ONT;14
-19/12;Inst. de Cable;2
-19/12;Inst. de UHF;3
-
+20/12;Inst. Cable Módem;0
+20/12;Inst. de ONT;14
+20/12;Inst. de Cable;2
+20/12;Inst. de UHF;3
+22/12;Inst. Cable Módem;0
+22/12;Inst. de ONT;15
+22/12;Inst. de Cable;1
+22/12;Inst. de UHF;0
