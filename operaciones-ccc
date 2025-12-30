@@ -2382,6 +2382,18 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 29/12;Mantenimientos de ONT;7;0
 29/12;Inst. de Cable;20;2
 29/12;Reclamos de Cable;84;22
+30/12;Inst. Cable Módem;10;2
+30/12;Reclamos de CM;37;3
+30/12;Inst. de ONT;112;8
+30/12;Reclamos de ONT;139;28
+30/12;Mantenimientos de ONT;7;0
+30/12;Inst. de Cable;17;3
+30/12;Reclamos de Cable;84;17
+30/12;Mantenimientos de RED;230;0
+30/12;Inst. de UHF;39;3
+30/12;Reclamos de UHF;58;5
+30/12;Retiros de UHF;295;0
+
 29/12;Mantenimientos de RED;230;0
 29/12;Inst. de UHF;31;1
 29/12;Reclamos de UHF;59;10
