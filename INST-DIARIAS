@@ -671,3 +671,7 @@ FECHA;OPERACIONES;REALIZADAS
 02/01;Inst. de ONT;16
 02/01;Inst. de Cable;0
 02/01;Inst. de UHF;0
+03/01;Inst. Cable Módem;0
+03/01;Inst. de ONT;20
+03/01;Inst. de Cable;6
+03/01;Inst. de UHF;1
