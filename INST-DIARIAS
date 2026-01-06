@@ -679,7 +679,7 @@ FECHA;OPERACIONES;REALIZADAS
 05/01;Inst. de ONT;11
 05/01;Inst. de Cable;0
 05/01;Inst. de UHF;6
-05/01;Inst. Cable Módem;0
-05/01;Inst. de ONT;11
-05/01;Inst. de Cable;0
-05/01;Inst. de UHF;6
+05/01;Inst. Cable Módem;4
+05/01;Inst. de ONT;15
+05/01;Inst. de Cable;1
+05/01;Inst. de UHF;7
