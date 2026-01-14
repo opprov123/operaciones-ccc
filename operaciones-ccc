@@ -2518,3 +2518,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 13/01;Inst. de UHF;48;4
 13/01;Reclamos de UHF;44;9
 13/01;Retiros de UHF;257;0
+14/01;Inst. Cable Módem;10;1
+14/01;Reclamos de CM;27;0
+14/01;Inst. de ONT;98;12
+14/01;Reclamos de ONT;162;28
+14/01;Mantenimientos de ONT;7;0
+14/01;Inst. de Cable;19;0
+14/01;Reclamos de Cable;69;15
+14/01;Mantenimientos de RED;230;0
+14/01;Inst. de UHF;51;5
+14/01;Reclamos de UHF;48;6
+14/01;Retiros de UHF;257;0
