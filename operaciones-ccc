@@ -2532,8 +2532,8 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 15/01;Inst. Cable Módem;11;0
 15/01;Reclamos de CM;22;6
 15/01;Inst. de ONT;102;15
-15/01;Reclamos de ONT;156;0
-15/01;Mantenimientos de ONT;7;37
+15/01;Reclamos de ONT;156;37
+15/01;Mantenimientos de ONT;7;0
 15/01;Inst. de Cable;19;2
 15/01;Reclamos de Cable;76;14
 15/01;Mantenimientos de RED;230;0
