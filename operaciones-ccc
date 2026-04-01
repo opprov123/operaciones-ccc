@@ -2716,3 +2716,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 31/03;Inst. de UHF;30;2
 31/03;Reclamos de UHF;59;10
 31/03;Retiros de UHF;171;0
+01/04;Inst. Cable Módem;13;5
+01/04;Reclamos de CM;25;6
+01/04;Inst. de ONT;96;20
+01/04;Reclamos de ONT;100;48
+01/04;Mantenimientos de ONT;7;0
+01/04;Inst. de Cable;20;1
+01/04;Reclamos de Cable;77;13
+01/04;Mantenimientos de RED;230;0
+01/04;Inst. de UHF;32;4
+01/04;Reclamos de UHF;60;18
+01/04;Retiros de UHF;171;0
