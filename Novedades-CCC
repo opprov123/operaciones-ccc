@@ -1,17 +1,17 @@
 [
   {
-    "indicador": "Técnicos activos",
-    "observaciones": "";
-    "valor": 36
+    "indicador": "Operaciones realizadas",
+    "valor": 0,
+    "observaciones": ""
   },
   {
-    "indicador": "Moviles operativos",
-    "observaciones": "";
-    "valor": 12
+    "indicador": "Pendientes",
+    "valor": 0,
+    "observaciones": ""
   },
   {
-    "indicador": "Moviles en taller",
-    "observaciones": "";
-    "valor": 3
+    "indicador": "Incidencias",
+    "valor": 0,
+    "observaciones": ""
   }
 ]
