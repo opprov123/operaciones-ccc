@@ -3057,3 +3057,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 11/05;Inst. de UHF;6;1
 11/05;Reclamos de UHF;31;17
 11/05;Retiros de UHF;134;0
+12/05;Inst. Cable Módem;14;0
+12/05;Reclamos de CM;22;2
+12/05;Inst. de ONT;130;27
+12/05;Reclamos de ONT;74;30
+12/05;Mantenimientos de ONT;7;0
+12/05;Inst. de Cable;14;8
+12/05;Reclamos de Cable;80;13
+12/05;Mantenimientos de RED;230;0
+12/05;Inst. de UHF;6;2
+12/05;Reclamos de UHF;32;16
+12/05;Retiros de UHF;134;0
