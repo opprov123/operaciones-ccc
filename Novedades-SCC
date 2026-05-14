@@ -1,0 +1,17 @@
+[
+  {
+    "indicador": "Técnicos activos",
+    "observaciones": null,
+    "cantidad": 30
+  },
+  {
+    "indicador": "Moviles operativos",
+    "observaciones": null,
+    "cantidad": 6
+  },
+  {
+    "indicador": "Moviles en taller",
+    "observaciones": null,
+    "cantidad": 2
+  }
+]
