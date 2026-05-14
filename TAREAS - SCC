@@ -1,19 +1,7 @@
 FECHA;TAREAS;PENDIENTES;REALIZADAS
-21/04/26;Conexiones;49;14
-21/04/26;Reclamos;160;38
-21/04/26;Cambios de equipo;11;3
-22/04/26;Conexiones;41;15
-22/04/26;Reclamos;156;40
-22/04/26;Cambios de equipo;0;2
-23/04/26;Conexiones;52;19
-23/04/26;Reclamos;171;29
-23/04/26;Cambios de equipo;16;0
-24/04/26;Conexiones;56;4
-24/04/26;Reclamos;173;30
-24/04/26;Cambios de equipo;17;1
-27/04/26;Conexiones;53;26
-27/04/26;Reclamos;167;56
-27/04/26;Cambios de equipo;19;2
-28/04/26;Conexiones;60;56
-28/04/26;Reclamos;150;54
-28/04/26;Cambios de equipo;56;45
+14/05/26;Instalaciones FTTH;63;5
+14/05/26;Instalaciones Docsis;0;0
+14/05/26;Instalaciones Cable;6;0
+14/05/26;Reclamos FTTH;55;45
+14/05/26;Reclamos Docsis;3;1
+14/05/26;Reclamos Cable;6;6
