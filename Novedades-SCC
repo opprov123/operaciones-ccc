@@ -1,17 +1,17 @@
 [
   {
     "indicador": "Técnicos activos",
-    "observaciones": "Prueba observación",
-    "cantidad": 30
+    "observaciones": null,
+    "cantidad": 12
   },
   {
     "indicador": "Moviles operativos",
     "observaciones": null,
-    "cantidad": 6
+    "cantidad": 4
   },
   {
     "indicador": "Moviles en taller",
     "observaciones": null,
-    "cantidad": 2
+    "cantidad": 1
   }
 ]
