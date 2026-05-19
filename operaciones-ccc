@@ -3123,3 +3123,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 18/05;Inst. de UHF;6;3
 18/05;Reclamos de UHF;25;7
 18/05;Retiros de UHF;134;0
+19/05;Inst. Cable Módem;10;1
+19/05;Reclamos de CM;31;7
+19/05;Inst. de ONT;90;29
+19/05;Reclamos de ONT;78;38
+19/05;Mantenimientos de ONT;7;0
+19/05;Inst. de Cable;14;1
+19/05;Reclamos de Cable;94;9
+19/05;Mantenimientos de RED;230;0
+19/05;Inst. de UHF;6;2
+19/05;Reclamos de UHF;33;6
+19/05;Retiros de UHF;134;0
