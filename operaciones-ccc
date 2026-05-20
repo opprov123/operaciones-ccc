@@ -3134,3 +3134,14 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 19/05;Inst. de UHF;6;2
 19/05;Reclamos de UHF;33;6
 19/05;Retiros de UHF;134;0
+20/05;Inst. Cable Módem;10;0
+20/05;Reclamos de CM;27;8
+20/05;Inst. de ONT;84;30
+20/05;Reclamos de ONT;79;34
+20/05;Mantenimientos de ONT;7;0
+20/05;Inst. de Cable;13;0
+20/05;Reclamos de Cable;86;23
+20/05;Mantenimientos de RED;230;0
+20/05;Inst. de UHF;10;2
+20/05;Reclamos de UHF;43;5
+20/05;Retiros de UHF;134;0
