@@ -3227,3 +3227,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 29/05;Inst. de UHF;16;3
 29/05;Reclamos de UHF;45;13
 29/05;Retiros de UHF;134;0
+30/05;Inst. Cable Módem;4;0
+30/05;Reclamos de CM;20;8
+30/05;Inst. de ONT;101;17
+30/05;Cambio de Tec.;13;2
+30/05;Reclamos de ONT;63;31
+30/05;Mantenimientos de ONT;7;0
+30/05;Inst. de Cable;7;2
+30/05;Reclamos de Cable;54;22
+30/05;Mantenimientos de RED;230;0
+30/05;Inst. de UHF;13;0
+30/05;Reclamos de UHF;42;12
+30/05;Retiros de UHF;134;0
