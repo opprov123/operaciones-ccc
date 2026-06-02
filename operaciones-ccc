@@ -3251,3 +3251,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 01/06;Inst. de UHF;13;1
 01/06;Reclamos de UHF;39;12
 01/06;Retiros de UHF;134;0
+02/06;Inst. Cable Módem;7;0
+02/06;Reclamos de CM;16;4
+02/06;Inst. de ONT;101;25
+02/06;Cambio de Tec.;7;5
+02/06;Reclamos de ONT;55;24
+02/06;Mantenimientos de ONT;7;0
+02/06;Inst. de Cable;9;3
+02/06;Reclamos de Cable;51;18
+02/06;Mantenimientos de RED;230;0
+02/06;Inst. de UHF;12;5
+02/06;Reclamos de UHF;35;13
+02/06;Retiros de UHF;134;0
