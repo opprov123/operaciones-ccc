@@ -904,8 +904,13 @@ FECHA;OPERACIONES;REALIZADAS
 03/06;Cambio de Tec.;1
 03/06;Inst. de Cable;0
 03/06;Inst. de UHF;4
-03/06;Inst. Cable Módem;1
+04/06;Inst. Cable Módem;1
 04/06;Inst. de ONT;20
 04/06;Cambio de Tec.;1
 04/06;Inst. de Cable;4
 04/06;Inst. de UHF;2
+04/06;Inst. Cable Módem;1
+04/06;Inst. de ONT;19
+04/06;Cambio de Tec.;0
+04/06;Inst. de Cable;4
+04/06;Inst. de UHF;4
