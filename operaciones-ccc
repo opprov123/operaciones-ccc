@@ -3061,8 +3061,8 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 08/06;Inst. Cable Módem;11;3
 08/06;Reclamos de CM;19;4
 08/06;Inst. de ONT;80;8
-08/06;Cambio de Tec.;3;25
-08/06;Reclamos de ONT;51;0
+08/06;Cambio de Tec.;3;0
+08/06;Reclamos de ONT;51;25
 08/06;Mantenimientos de ONT;7;0
 08/06;Inst. de Cable;4;0
 08/06;Reclamos de Cable;39;17
