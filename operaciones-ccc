@@ -3070,3 +3070,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 08/06;Inst. de UHF;11;6
 08/06;Reclamos de UHF;48;5
 08/06;Retiros de UHF;134;0
+09/06;Inst. Cable Módem;11;2
+09/06;Reclamos de CM;19;4
+09/06;Inst. de ONT;87;5
+09/06;Cambio de Tec.;4;0
+09/06;Reclamos de ONT;70;21
+09/06;Mantenimientos de ONT;7;0
+09/06;Inst. de Cable;7;0
+09/06;Reclamos de Cable;48;11
+09/06;Mantenimientos de RED;230;0
+09/06;Inst. de UHF;9;4
+09/06;Reclamos de UHF;49;16
+09/06;Retiros de UHF;134;0
