@@ -3118,3 +3118,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 12/06;Inst. de UHF;15;2
 12/06;Reclamos de UHF;39;15
 12/06;Retiros de UHF;134;0
+13/06;Inst. Cable Módem;6;3
+13/06;Reclamos de CM;23;2
+13/06;Inst. de ONT;68;27
+13/06;Cambio de Tec.;5;0
+13/06;Reclamos de ONT;84;36
+13/06;Mantenimientos de ONT;7;0
+13/06;Inst. de Cable;9;3
+13/06;Reclamos de Cable;67;11
+13/06;Mantenimientos de RED;230;0
+13/06;Inst. de UHF;11;4
+13/06;Reclamos de UHF;50;11
+13/06;Retiros de UHF;689;0
