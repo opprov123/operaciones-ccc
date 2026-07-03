@@ -3310,3 +3310,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 02/07;Inst. de UHF;14;3
 02/07;Reclamos de UHF;27;4
 02/07;Retiros de UHF;134;0
+03/07;Inst. Cable Módem;9;2
+03/07;Reclamos de CM;20;4
+03/07;Inst. de ONT;56;12
+03/07;Cambio de Tec.;5;0
+03/07;Reclamos de ONT;70;25
+03/07;Mantenimientos de ONT;7;0
+03/07;Inst. de Cable;5;1
+03/07;Reclamos de Cable;49;27
+03/07;Mantenimientos de RED;230;0
+03/07;Inst. de UHF;17;0
+03/07;Reclamos de UHF;26;13
+03/07;Retiros de UHF;134;0
