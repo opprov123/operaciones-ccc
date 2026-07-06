@@ -1030,7 +1030,7 @@ FECHA;OPERACIONES;REALIZADAS
 04/07;Inst. de Cable;0
 04/07;Inst. de UHF;1
 06/07;Inst. Cable Módem;0
-06/07;Inst. de ONT;1
+06/07;Inst. de ONT;0
 06/07;Cambio de Tec.;0
-06/07;Inst. de Cable;0
-06/07;Inst. de UHF;1
+06/07;Inst. de Cable;2
+06/07;Inst. de UHF;0
