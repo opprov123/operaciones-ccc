@@ -3228,3 +3228,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 24/07;Inst. de UHF;6;4
 24/07;Reclamos de UHF;23;6
 24/07;Retiros de UHF;134;0
+25/07;Inst. Cable Módem;6;0
+25/07;Reclamos de CM;9;5
+25/07;Inst. de ONT;32;13
+25/07;Cambio de Tec.;4;0
+25/07;Reclamos de ONT;32;23
+25/07;Mantenimientos de ONT;7;0
+25/07;Inst. de Cable;1;1
+25/07;Reclamos de Cable;32;9
+25/07;Mantenimientos de RED;230;0
+25/07;Inst. de UHF;8;2
+25/07;Reclamos de UHF;25;11
+25/07;Retiros de UHF;134;0
