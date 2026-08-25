@@ -3241,3 +3241,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 22/08;Inst. de UHF;8;3
 22/08;Reclamos de UHF;12;8
 22/08;Retiros de UHF;623;0
+24/08;Inst. Cable Módem;2;0
+24/08;Reclamos de CM;5;5
+24/08;Inst. de ONT;73;6
+24/08;Cambio de Tec.;2;0
+24/08;Reclamos de ONT;31;18
+24/08;Mantenimientos de ONT;2;0
+24/08;Inst. de Cable;2;2
+24/08;Reclamos de Cable;8;16
+24/08;Mantenimientos de RED;5;3
+24/08;Inst. de UHF;6;3
+24/08;Reclamos de UHF;10;5
+24/08;Retiros de UHF;623;0
