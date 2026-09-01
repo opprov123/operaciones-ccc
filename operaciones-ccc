@@ -3325,3 +3325,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 31/08;Inst. de UHF;6;2
 31/08;Reclamos de UHF;28;12
 31/08;Retiros de UHF;609;0
+01/09;Inst. Cable Módem;6;1
+01/09;Reclamos de CM;7;1
+01/09;Inst. de ONT;115;8
+01/09;Cambio de Tec.;11;5
+01/09;Reclamos de ONT;39;22
+01/09;Mantenimientos de ONT;3;0
+01/09;Inst. de Cable;3;0
+01/09;Reclamos de Cable;18;5
+01/09;Mantenimientos de RED;6;1
+01/09;Inst. de UHF;7;1
+01/09;Reclamos de UHF;22;8
+01/09;Retiros de UHF;609;0
