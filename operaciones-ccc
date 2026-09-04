@@ -2987,3 +2987,15 @@ FECHA;OPERACIONES;PENDIENTES;REALIZADAS
 03/09;Inst. de UHF;8;1
 03/09;Reclamos de UHF;20;8
 03/09;Retiros de UHF;609;0
+04/09;Inst. Cable Módem;5;1
+04/09;Reclamos de CM;8;3
+04/09;Inst. de ONT;109;21
+04/09;Cambio de Tec.;10;1
+04/09;Reclamos de ONT;41;20
+04/09;Mantenimientos de ONT;1;1
+04/09;Inst. de Cable;5;1
+04/09;Reclamos de Cable;22;12
+04/09;Mantenimientos de RED;9;1
+04/09;Inst. de UHF;9;0
+04/09;Reclamos de UHF;15;9
+04/09;Retiros de UHF;609;0
